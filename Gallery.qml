@@ -1,5 +1,5 @@
 import QtQuick 2.0
-import com.cutehacks.fontawesome 1.0
+import "qrc:/com/cutehacks/fontawesome"
 
 Rectangle {
     width: 640
